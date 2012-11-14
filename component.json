@@ -8,11 +8,9 @@
         "name" : "Miller Medeiros",
         "url" : "http://blog.millermedeiros.com/"
     },
-    "repo" : "https://github.com/millermedeiros/js-signals.git"
-    },
+    "repo" : "https://github.com/millermedeiros/js-signals.git",
     "scripts": [
       	"dist/signals.js"
     ]
 }
-
 
