@@ -12,6 +12,6 @@
     "scripts": [
       	"dist/signals.js"
     ],
-	"main": "dist/signals.js",    
+	"main": "dist/signals.js"
 }
 
