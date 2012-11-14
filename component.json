@@ -11,6 +11,7 @@
     "repo" : "https://github.com/millermedeiros/js-signals.git",
     "scripts": [
       	"dist/signals.js"
-    ]
+    ],
+	"main": "dist/signals.js",    
 }
 
